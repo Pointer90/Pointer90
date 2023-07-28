@@ -1,4 +1,6 @@
+
 <div id="header" align="center">
+  <img width="1920" src="https://github.com/Pointer90/Pointer90/blob/main/vortex.gif" align="center"/>
   <h1>Hi, my name is Arseniy</h1>
   <h3>Student, junior developer. I am engaged in programming, 3D modeling and computer graphics.</h3>
 </div>

@@ -12,7 +12,6 @@
 
 
 # Languages
-![](https://komarev.com/ghpvc/?username=Pointer90)
 <div id="MyStats">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -46,3 +45,8 @@ I am a student of the Faculty of Mathematics of Chelyabinsk State University, I 
 - 3D modeling
 
 ## How to reach me: mr.Elisar@gmail.com
+
+## Сertificates
+- <a href="https://stepik.org/cert/2146281"> "Introduction to C++ Programming" (Академия Яндекса, НИУ ВШЭ) <a/>
+- <a href="https://stepik.org/cert/2126682"> "Programming in Golang" (Разработчик курса — Семен Новиков) <a/>
+
